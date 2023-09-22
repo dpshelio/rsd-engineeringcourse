@@ -1,4 +1,4 @@
-# rsd-engineeringcourse
+# RSEing with Python Course
 
 Course materials for Research Software Engineering course.
 
